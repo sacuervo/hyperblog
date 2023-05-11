@@ -40,6 +40,10 @@ body {
   font-size: 20px;
 }
 
+#post-img {
+  width: 75%;
+}
+
 #post {
   background: white;
   padding: 1em;
